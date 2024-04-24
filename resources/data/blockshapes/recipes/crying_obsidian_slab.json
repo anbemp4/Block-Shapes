@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "blockshapes:crying_obsidian_slab"
+  }
+}

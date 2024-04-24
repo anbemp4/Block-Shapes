@@ -1,0 +1,24 @@
+{
+  "values": [
+    "blockshapes:crimson_stem_slab",
+    "blockshapes:crimson_stem_stairs",
+    "blockshapes:warped_stem_slab",
+    "blockshapes:warped_stem_stairs",
+    "blockshapes:stripped_crimson_stem_slab",
+    "blockshapes:stripped_crimson_stem_stairs",
+    "blockshapes:stripped_warped_stem_slab",
+    "blockshapes:stripped_warped_stem_stairs",
+    "blockshapes:crimson_hyphae_slab",
+    "blockshapes:crimson_hyphae_stairs",
+    "blockshapes:crimson_hyphae_wall",
+    "blockshapes:warped_hyphae_slab",
+    "blockshapes:warped_hyphae_stairs",
+    "blockshapes:warped_hyphae_wall",
+    "blockshapes:stripped_crimson_hyphae_slab",
+    "blockshapes:stripped_crimson_hyphae_stairs",
+    "blockshapes:stripped_crimson_hyphae_wall",
+    "blockshapes:stripped_warped_hyphae_slab",
+    "blockshapes:stripped_warped_hyphae_stairs",
+    "blockshapes:stripped_warped_hyphae_wall"
+  ]
+}

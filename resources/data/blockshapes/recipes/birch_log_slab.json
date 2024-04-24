@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "blockshapes:birch_log_slab"
+  }
+}

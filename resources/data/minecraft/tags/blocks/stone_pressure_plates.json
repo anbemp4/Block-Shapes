@@ -1,0 +1,9 @@
+{
+  "values": [
+    "blockshapes:polished_granite_pressure_plate",
+    "blockshapes:polished_diorite_pressure_plate",
+    "blockshapes:polished_andesite_pressure_plate",
+    "blockshapes:polished_deepslate_pressure_plate",
+    "blockshapes:polished_basalt_pressure_plate"
+  ]
+}

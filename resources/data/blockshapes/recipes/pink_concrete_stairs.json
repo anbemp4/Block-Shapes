@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#  ",
+      "## ",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:pink_concrete"
+      }
+    },
+    "result": {
+      "item": "blockshapes:pink_concrete_stairs",
+      "count": 4
+    }
+  }
+  

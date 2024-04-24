@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_basalt"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "blockshapes:polished_basalt_slab"
+  }
+}
